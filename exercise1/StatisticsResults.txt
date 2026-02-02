@@ -1,0 +1,13 @@
+==================================================
+DESCRIPTIVE STATISTICS RESULTS
+==================================================
+
+Count of numbers: 10
+Mean: 2.900000
+Median: 3.000000
+Mode: Multiple modes: 1.0, 3.0, 5.0
+Variance: 2.490000
+Standard Deviation: 1.577973
+
+Execution Time: 0.000136 seconds
+==================================================
