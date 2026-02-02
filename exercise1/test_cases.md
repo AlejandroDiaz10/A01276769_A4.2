@@ -394,5 +394,5 @@ Code achieves **10.00/10** PyLint score (see `pylint_report.txt`).
 ---
 
 **Date**: February 2026  
-**Author**: Student  
+**Author**: Alejandro Díaz  
 **Version**: 1.0
