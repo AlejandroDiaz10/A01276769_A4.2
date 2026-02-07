@@ -2,12 +2,12 @@
 DESCRIPTIVE STATISTICS RESULTS
 ==================================================
 
-Count of numbers: 10
-Mean: 2.900000
-Median: 3.000000
-Mode: Multiple modes: 1.0, 3.0, 5.0
-Variance: 2.490000
-Standard Deviation: 1.577973
+Count of numbers: 12767
+Mean: 247467395499716247552.000000
+Median: 246640973074290016256.000000
+Mode: No mode (all values appear once)
+Variance: 20910793147136529701595687680603951464448.000000
+Standard Deviation: 18572515212475229775331328.000000
 
-Execution Time: 0.000136 seconds
+Execution Time: 0.006309 seconds
 ==================================================
